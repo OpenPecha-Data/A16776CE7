@@ -1,0 +1,19 @@
+segment_sources:
+  P49376CF5:
+    type: origin_type
+    relation: translation
+    language: en
+  PBF1DB1B2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a65da89f1dea48ca8b7cc6688d78329d:
+    P49376CF5: fd5d65acf19e4f5d9ca9f8402fbad62e
+    PBF1DB1B2: 9a2838af05cf4af88a2e0e5fba6aa88f
+  36df0954a5c94f919f480203dbe440c7:
+    P49376CF5: 4f72a3c98dc549b29041ce3124ea75c3
+    PBF1DB1B2: 312ed937ef7c481fb23588c0b5a7afee
+  b8874a3fb6b140f28bef5a754d25846f:
+    P49376CF5: 6a30a40eca744728a6486beacceee590
+    PBF1DB1B2: ca7ad947015d47f9a7365ec404540d64
